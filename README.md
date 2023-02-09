@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Whiteends
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @Abdullah
+- 👀 I’m interested in DevOps and DevSecOps
+- 🌱 I’m currently learning python, bash and powershell scripting
 - 💞️ I’m looking to collaborate on Open-Source Python Projects
-- 📫 How to reach me: whiteendss@gmail.com
+- 📫 How to reach me: automateda01@gmail.com
 
 <!---
 Whiteends/Whiteends is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
